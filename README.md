@@ -8,10 +8,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 - initial Commit
 
-# For demo purpose
-
-I have enabled env file in .gitignore file
-
 ## Available Scripts
 
 In the project directory, you can run:
